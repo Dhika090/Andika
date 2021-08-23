@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Dhika090
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning data science & mobile development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: nyes6953@gmail.com
 
+Fun fact: you don't finish your ongoing project before starting a new one
 <!---
-Dhika090/Dhika090 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Hi there 👋, I am Andika
+I am Dika, currently pursuing my S1.in Computer Science Engineering as a first-year student. I am learning Front-End web || Mobile development.
 --->
