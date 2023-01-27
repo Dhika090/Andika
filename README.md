@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andika
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning data science & mobile development
+- 🌱 I’m currently learning web development & mobile development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: nyes6953@gmail.com
 
